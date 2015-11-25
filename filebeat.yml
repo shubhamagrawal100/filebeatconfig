@@ -164,7 +164,7 @@ output:
 
     # Optional index name. The default is "filebeat" and generates
     # [filebeat-]YYYY.MM.DD keys.
-    #index: "filebeat"
+    index: "filebeatApache"
 
     # Optional HTTP Path
     #path: "/elasticsearch"
